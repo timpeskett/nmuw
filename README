@@ -6,7 +6,7 @@
 
 About
 ------
-nmuw stands for Networked Multi-computer Unified Workspace. It stems from the use case of being in a school/university computer lab and having so many free computers around but not being able to have a multi-monitor setup.
+nmuw stands for Networked Multi-computer Unified Workspace. Essentially imagine that you have two (or more) networked computers and you want to have dual-monitor functionality but you can't move the monitors, this is an attempt to solve that. It stems from the use case of being in a school/university computer lab and having so many free computers around but not being able to have a multi-monitor setup.
 nmuw currently runs only on linux and requires X11. Best results are obtained if the XTEST extension is also installed (in my experience it typically is).
 
 How to use
